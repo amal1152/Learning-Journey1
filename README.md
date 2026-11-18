@@ -22,3 +22,10 @@ Learning Journey is a learning activity tracking app that helps users build cons
 - MVVM Architecture
 
 ## Screenshots
+## Screenshots
+
+<p align="center">
+  <img src="Onboarding.png" width="250">
+  <img src="Activity.png" width="250">
+  <img src="History.png" width="250">
+</p>
